@@ -1,0 +1,4 @@
+fichiers ignorés
+*.log
+/cache/*
+!/cache/.gitkeep
